@@ -1,0 +1,1 @@
+In Chapter 7, which focuses on using animation, I faced a few challenges along the way. Even though I primarily worked with basic animations, I gained valuable insights into how to implement them effectively and a deeper understanding of their functionality.

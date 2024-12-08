@@ -1,0 +1,1 @@
+In this chapter, it helps me understand what the Widget tree is. Even though I know a little about Flutter and widgets, this chapter taught me that the Widget tree is a structure that organizes and connects all the visual elements of an app.
